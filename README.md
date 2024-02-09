@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Rubal Khehra
+Tech enthusiast  
+### 🛠️SKILLS
+
+Domain	                 Tech Stack  
+Web Development	         HTML, CSS, React.JS  
+Databases	               MYSQL, MongoDB  
+Languages	               Python, C, C++, Java, JavaScript  
+Tools	                   Git, Visual Studio Code  
+
 Highly responsible and organized with excellent writing, communication, and critical thinking abilities.
 <!--
 **Rubalkhehra/Rubalkhehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
