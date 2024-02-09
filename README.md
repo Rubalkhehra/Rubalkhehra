@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Highly responsible and organized with excellent writing, communication, and critical thinking abilities.
 <!--
 **Rubalkhehra/Rubalkhehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
