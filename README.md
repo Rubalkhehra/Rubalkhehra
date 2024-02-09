@@ -10,6 +10,7 @@ Tools	           :        Git, Visual Studio Code
 
 ### 🔭PROJECTS
 #### NourishNet (https://devpost.com/software/nourish-net-an-online-food-relief-network)
+#### Stock Price Prediction Model (https://github.com/Rubalkhehra/stock_price_prediction)
 <!--
 **Rubalkhehra/Rubalkhehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
