@@ -3,7 +3,7 @@ Passionate and dedicated IT professional with a strong foundation in Computer Sc
 ### 🛠️SKILLS
 
 Domain	:                  Tech Stack  
-Web Development	    :     HTML, CSS, React.JS  
+Web Development	    :     HTML, CSS, React.JS, Node.js, ExpressJS  
 Databases	       :        MYSQL, MongoDB  
 Languages	       :        Python, C, C++, Java, JavaScript  
 Tools	           :        Git, Visual Studio Code  
