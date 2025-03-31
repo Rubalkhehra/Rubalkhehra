@@ -3,11 +3,11 @@ Passionate and dedicated IT professional with a strong foundation in Computer Sc
 ### 🛠️SKILLS
 
 Domain	:                  Tech Stack  
-Web Development	    :     HTML, CSS, React.JS, Node.js, ExpressJS  
-Databases	       :        MYSQL, MongoDB  
-Languages	       :        Python, C, C++, Java, JavaScript  
-Tools	           :        Git, Visual Studio Code  
-
+Programming Languages:  Java, Python, SQL   
+Frontend Technologies: HTML5, CSS3, JavaScript, React, Typescript  
+Backend Technologies: Spring Framework (Spring Boot, Spring MVC, Spring Security, Spring Data), Node.js, RESTful API, Microservices architecture, Hibernate  
+Database Management: MySQL, MongoDB 
+Testing Frameworks: JUnit, Mockito  
 ### 🔭PROJECTS
 #### NourishNet (https://devpost.com/software/nourish-net-an-online-food-relief-network)
 #### Stock Price Prediction Model (https://github.com/Rubalkhehra/stock_price_prediction)
