@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Rubal Khehra
-Passionate and dedicated IT professional with a strong foundation in Computer Science and Engineering, currently pursuing a Master's in Information Technology at the University of Massachusetts Boston. Proficient in diverse programming languages, web development, and database management, I bring a versatile skill set to the table. Experienced in executing complex technical projects, from strategic event planning with PHP to implementing machine learning models for stock price prediction. Adept at collaborative teamwork, as evidenced by active involvement in UMB CS-mentorship and Rewriting the Code clubs. A leader both on and off the field, having captained a basketball team to victory. Highly responsible and organized with excellent writing, communication, and critical thinking abilities.
+Java Programmer with 3 years of experience specializing in building high-performance microservices and scalable applications using Spring Boot 
+ecosystem. Proficient in optimizing application performance, automating deployment pipelines, and implementing robust testing strategies. Skilled 
+in RESTful API development, cloud infrastructure, and agile methodologies. Consistently delivers solutions that enhance system efficiency and 
+reduce operational overhead.
 ### 🛠️SKILLS
 
 Domain	:                  Tech Stack  
